@@ -1,5 +1,1 @@
-$ dig sonali-bola.com +nostats +nocomments +nocmd
-    > ;sonali-bola.com.                     IN      A
-    > sonali-bola.com.              3592    IN      CNAME   sonali-bola.github.io.
-    > sonali-bola.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+sonali-bola.com
